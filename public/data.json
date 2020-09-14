@@ -1,0 +1,92 @@
+[
+    {
+        "questionText": "What is the capital of Chile?",
+        "answerOptions": [
+            { "answerText": "New York", "isCorrect": false },
+            { "answerText": "London", "isCorrect": false },
+            { "answerText": "Santiago", "isCorrect": true },
+            { "answerText": "Dublin", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What is the highest mountain in Britain?",
+        "answerOptions": [
+            { "answerText": "Mont Blanc", "isCorrect": false },
+            { "answerText": "Ben Nevis", "isCorrect": true },
+            { "answerText": "Everest", "isCorrect": false },
+            { "answerText": "Macalu", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What are the five colors of the olimpic rings",
+        "answerOptions": [
+            { "answerText": "Blue, yellow, black, green and red", "isCorrect": true },
+            { "answerText": "Black and red", "isCorrect": false },
+            { "answerText": "Blue, green and rose", "isCorrect": false },
+            { "answerText": "Purple, black, red and green", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "How many players are there in a rugby league team?",
+        "answerOptions": [
+            { "answerText": "21", "isCorrect": false },
+            { "answerText": "7", "isCorrect": false },
+            { "answerText": "11", "isCorrect": false },
+            { "answerText": "13", "isCorrect": true }
+        ]
+    },
+    {
+        "questionText": "What is the most famous Mexican beer?",
+        "answerOptions": [
+            { "answerText": "Hugarden", "isCorrect": false },
+            { "answerText": "Baltica", "isCorrect": false },
+            { "answerText": "Corona", "isCorrect": true },
+            { "answerText": "Leff", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "What is Japanese sake made from?",
+        "answerOptions": [
+            { "answerText": "Meet", "isCorrect": false },
+            { "answerText": "Rice", "isCorrect": true },
+            { "answerText": "Orange", "isCorrect": false },
+            { "answerText": "Cus cus", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which country is the origin of the cocktail Mojito?",
+        "answerOptions": [
+            { "answerText": "Cuba", "isCorrect": true },
+            { "answerText": "Israel", "isCorrect": false },
+            { "answerText": "Germany", "isCorrect": false },
+            { "answerText": "USA", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which year was the Premier League founded?",
+        "answerOptions": [
+            { "answerText": "1986", "isCorrect": false },
+            { "answerText": "1992", "isCorrect": true },
+            { "answerText": "1996", "isCorrect": false },
+            { "answerText": "2001", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Which club won the 2017 UEFA Super Cup?",
+        "answerOptions": [
+            { "answerText": "Benfica", "isCorrect": false },
+            { "answerText": "Shahtar Donetsk", "isCorrect": false },
+            { "answerText": "Real Madrid", "isCorrect": true },
+            { "answerText": "Barcelona", "isCorrect": false }
+        ]
+    },
+    {
+        "questionText": "Wayne Rooney scored his Premier League first goal against which team?",
+        "answerOptions": [
+            { "answerText": "Arsenal", "isCorrect": true },
+            { "answerText": "Dinamo Kyiv", "isCorrect": false },
+            { "answerText": "Maccabi Tel Aviv", "isCorrect": false },
+            { "answerText": "Manchester United", "isCorrect": false }
+        ]
+    }
+]
